@@ -1,0 +1,37 @@
+.navbar-brand{
+    width: 20%;
+}
+.navbar{
+    background-color:aqua;
+}
+.navlink{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+.bgimg{
+    background-image: url('https://img.freepik.com/free-psd/realistic-television-presentation_1310-15.jpg?ga=GA1.1.1141272672.1718099673&semt=sph');
+    width:100vw;
+    height:100vh;
+    background-position:center ;
+    background-size: cover;
+
+}
+.hhead{
+    color:black;
+    margin-top: 2%;
+    font-size:50px;
+}
+.htbtn{
+    width:20%;
+    font-size: 20px;
+    font-weight: bold;
+}
+.apara{
+    font-size: 20px;
+    color:cornflowerblue;
+}
+.d-block{
+    aspect-ratio: 3/2;
+    width: 100%;
+}
